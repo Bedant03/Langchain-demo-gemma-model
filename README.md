@@ -11,7 +11,11 @@ LangSmith tracing is also enabled for monitoring and debugging chains.
 
 Tech Stack
 1.Python
+
 2.LangChain
+
 3.Ollama
+
 4.Streamlit
+
 5.Gemma 2B (local LLM)
